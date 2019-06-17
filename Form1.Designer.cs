@@ -52,6 +52,7 @@
             // btn1
             // 
             this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn1.ForeColor = System.Drawing.Color.Red;
             this.btn1.Location = new System.Drawing.Point(11, 118);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(75, 63);
@@ -63,6 +64,7 @@
             // btn2
             // 
             this.btn2.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn2.ForeColor = System.Drawing.Color.Red;
             this.btn2.Location = new System.Drawing.Point(92, 118);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(75, 63);
@@ -74,6 +76,7 @@
             // btn3
             // 
             this.btn3.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn3.ForeColor = System.Drawing.Color.Red;
             this.btn3.Location = new System.Drawing.Point(173, 118);
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(75, 63);
@@ -85,6 +88,7 @@
             // btn4
             // 
             this.btn4.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn4.ForeColor = System.Drawing.Color.Red;
             this.btn4.Location = new System.Drawing.Point(11, 187);
             this.btn4.Name = "btn4";
             this.btn4.Size = new System.Drawing.Size(75, 63);
@@ -96,6 +100,7 @@
             // btn5
             // 
             this.btn5.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn5.ForeColor = System.Drawing.Color.Red;
             this.btn5.Location = new System.Drawing.Point(92, 187);
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(75, 63);
@@ -107,6 +112,7 @@
             // btn6
             // 
             this.btn6.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn6.ForeColor = System.Drawing.Color.Red;
             this.btn6.Location = new System.Drawing.Point(173, 187);
             this.btn6.Name = "btn6";
             this.btn6.Size = new System.Drawing.Size(75, 63);
@@ -118,6 +124,7 @@
             // btn7
             // 
             this.btn7.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn7.ForeColor = System.Drawing.Color.Red;
             this.btn7.Location = new System.Drawing.Point(11, 256);
             this.btn7.Name = "btn7";
             this.btn7.Size = new System.Drawing.Size(75, 63);
@@ -129,6 +136,7 @@
             // btn8
             // 
             this.btn8.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn8.ForeColor = System.Drawing.Color.Red;
             this.btn8.Location = new System.Drawing.Point(92, 256);
             this.btn8.Name = "btn8";
             this.btn8.Size = new System.Drawing.Size(75, 63);
@@ -140,6 +148,7 @@
             // btn9
             // 
             this.btn9.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn9.ForeColor = System.Drawing.Color.Red;
             this.btn9.Location = new System.Drawing.Point(173, 256);
             this.btn9.Name = "btn9";
             this.btn9.Size = new System.Drawing.Size(75, 63);
@@ -151,6 +160,7 @@
             // btn0
             // 
             this.btn0.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn0.ForeColor = System.Drawing.Color.Red;
             this.btn0.Location = new System.Drawing.Point(11, 325);
             this.btn0.Name = "btn0";
             this.btn0.Size = new System.Drawing.Size(156, 63);
@@ -162,6 +172,7 @@
             // btn_virgula
             // 
             this.btn_virgula.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_virgula.ForeColor = System.Drawing.Color.Red;
             this.btn_virgula.Location = new System.Drawing.Point(173, 325);
             this.btn_virgula.Name = "btn_virgula";
             this.btn_virgula.Size = new System.Drawing.Size(75, 63);
@@ -173,6 +184,7 @@
             // btn_igual
             // 
             this.btn_igual.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_igual.ForeColor = System.Drawing.Color.Red;
             this.btn_igual.Location = new System.Drawing.Point(254, 325);
             this.btn_igual.Name = "btn_igual";
             this.btn_igual.Size = new System.Drawing.Size(156, 63);
@@ -184,6 +196,7 @@
             // btn_multiplicacao
             // 
             this.btn_multiplicacao.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_multiplicacao.ForeColor = System.Drawing.Color.Red;
             this.btn_multiplicacao.Location = new System.Drawing.Point(254, 256);
             this.btn_multiplicacao.Name = "btn_multiplicacao";
             this.btn_multiplicacao.Size = new System.Drawing.Size(75, 63);
@@ -195,6 +208,7 @@
             // btn_adicao
             // 
             this.btn_adicao.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_adicao.ForeColor = System.Drawing.Color.Red;
             this.btn_adicao.Location = new System.Drawing.Point(254, 187);
             this.btn_adicao.Name = "btn_adicao";
             this.btn_adicao.Size = new System.Drawing.Size(75, 63);
@@ -206,6 +220,7 @@
             // btn_divisao
             // 
             this.btn_divisao.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_divisao.ForeColor = System.Drawing.Color.Red;
             this.btn_divisao.Location = new System.Drawing.Point(335, 256);
             this.btn_divisao.Name = "btn_divisao";
             this.btn_divisao.Size = new System.Drawing.Size(75, 63);
@@ -217,6 +232,7 @@
             // btn_subtracao
             // 
             this.btn_subtracao.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_subtracao.ForeColor = System.Drawing.Color.Red;
             this.btn_subtracao.Location = new System.Drawing.Point(335, 187);
             this.btn_subtracao.Name = "btn_subtracao";
             this.btn_subtracao.Size = new System.Drawing.Size(75, 63);
@@ -228,6 +244,7 @@
             // btn_limpar
             // 
             this.btn_limpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_limpar.ForeColor = System.Drawing.Color.Red;
             this.btn_limpar.Location = new System.Drawing.Point(254, 118);
             this.btn_limpar.Name = "btn_limpar";
             this.btn_limpar.Size = new System.Drawing.Size(156, 63);
@@ -239,6 +256,7 @@
             // txt_valor
             // 
             this.txt_valor.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_valor.ForeColor = System.Drawing.Color.Red;
             this.txt_valor.Location = new System.Drawing.Point(12, 24);
             this.txt_valor.Name = "txt_valor";
             this.txt_valor.Size = new System.Drawing.Size(399, 68);
@@ -260,6 +278,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(427, 480);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txt_valor);
